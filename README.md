@@ -1,13 +1,13 @@
-# CHAPTER Landing Page
+# CHATTER Landing Page
 
-A static landing page for **CHAPTER**, a platform created for writers and readers to share ideas, discover content, interact with a community, and build meaningful conversations around text-based content.
+A static landing page for **CHATTER**, a platform created for writers and readers to share ideas, discover content, interact with a community, and build meaningful conversations around text-based content.
 
 ## Overview
 
-The page presents the CHAPTER brand and highlights the platform's key benefits through a clear, section-based layout:
+The page presents the CHATTER brand and highlights the platform's key benefits through a clear, section-based layout:
 
 - Hero section with a primary call-to-action
-- About CHAPTER
+- About CHATTER
 - Benefits of joining
 - Community testimonial
 - Final writer and reader call-to-action
